@@ -1,21 +1,18 @@
-<h1 align="center">hey there </h1>
+<h1 align="center">hiiiiiiii </h1>
 
 <!-- IMAGEM -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/DudaGlass/DudaGlass/main/git-image.png" width="300px">
 </p>
 
-<h3 align="left"> About Me</h3>
+<h3 align="left"> About Mee</h3>
 
 <p align="left">
 >
 -  Music nerd <br>
 -  Working in computer networking <br>
 -  Technologist in programming and algorithms <br>
--  Future software engineer
 </p>
-
-<h3 align="left"> Social</h3>
 
 <p align="left">
   <a href="https://instagram.com/dudisdead" target="_blank">
