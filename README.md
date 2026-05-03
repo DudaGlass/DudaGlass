@@ -10,8 +10,6 @@
 <p align="left">
 >
 -  Music nerd <br>
--  Working in computer networking <br>
--  Technologist in programming and algorithms <br>
 </p>
 
 </p>
@@ -32,8 +30,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40"/>
 </div>
 
-<h3 align="left"> My Stats</h3>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DudaGlass&show_icons=true&theme=tokyonight" />
 </p>
