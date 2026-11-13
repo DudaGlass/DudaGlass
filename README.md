@@ -38,8 +38,6 @@
   <img width="12"/>
 
   <!-- DEVELOPMENT -->
-  <img src="https://cdn.simpleicons.org/csharp/512BD4" height="40"/>
-  <img width="12"/>
   <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/arduino/00878F" height="40"/>
